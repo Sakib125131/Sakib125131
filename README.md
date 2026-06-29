@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Sakib Ahmed</h1>
 <h3 align="center">🎓 Computer Science & Engineering Student | 🐍 Python Programmer | 🤖 Automation Enthusiast</h3>
 
